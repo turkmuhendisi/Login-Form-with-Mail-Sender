@@ -76,11 +76,11 @@ namespace LoginForm
         {
             string smtpServer = "smtp.gmail.com";
             int smtpPort = 587;
-            string smtpUsername = "javatester60@gmail.com";
-            string smtpPassword = "kpup nram ughh dksq";
+            string smtpUsername = "ja***er*@gmail.com";
+            string smtpPassword = "***secret***";
 
             // Sender and Receiver
-            string fromEmail = "javatester60@gmail.com";
+            string fromEmail = "ja***er*@gmail.com";
             string toEmail = email;
 
             // Create Message
